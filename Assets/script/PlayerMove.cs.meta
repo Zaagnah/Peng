@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0fc6473d30154c941a617f4cf3d02ea5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - QuitText: {fileID: 6903253647211071960, guid: e186f0cfbc5bb374abe99c5d0a1b48ef,
+      type: 3}
+  - player: {instanceID: 0}
+  - joystick: {instanceID: 0}
+  - finishPart: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
